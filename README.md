@@ -36,9 +36,9 @@ My work style is always characterized by a detailed and understandable approach 
 
 | From | Until | Description |
 | ---- | ---- | ---- |
-| 07/2023 | now | Technical Writer and Systems Administrator:  - Technical documentation of a customized classification software for documents and  emails.- Writing of user manuals and translation of documents (English to German). - Creation of test protocols for configuration test Writing of user manuals and translation of documents into German. - Employment confdential. |
-| 06/2022 | 06/2023 | Inside Sales Representative: - Inside Sales of software licenses and services for device management. - Sales region Northern Germany. New customers acquisition. - Requirements assessment, quotation, sales and price negotiations, closing. - Employment by Quest Software Int. Ltd., Cork, Ireland |
-| 12/2020 |  05/2022 | Systems Administrator and Systems Operation: - Administration and operation of a document archiving application for the German health system with OpenText, Aida, DB2, MS-SQL, Powershell scripting. - Writing of operating instructions for the operations manual. - Employment confidential | 
+| 07/2023 | now | Technical Writer and Systems Administrator:  Technical documentation of a customized classification software for documents and  emails. Writing of user manuals and translation of documents (English to German). Creation of test protocols for configuration test Writing of user manuals and translation of documents into German. Employment confdential. |
+| 06/2022 | 06/2023 | Inside Sales Representative: Inside Sales of software licenses and services for device management. Sales region Northern Germany. New customers acquisition. Requirements assessment, quotation, sales and price negotiations, closing. Employment by Quest Software Int. Ltd., Cork, Ireland |
+| 12/2020 |  05/2022 | Systems Administrator and Systems Operation: Administration and operation of a document archiving application for the German health system with OpenText, Aida, DB2, MS-SQL, Powershell scripting. Writing of operating instructions for the operations manual. Employment confidential | 
 
 
 <!--
