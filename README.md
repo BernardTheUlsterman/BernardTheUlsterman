@@ -71,7 +71,10 @@ My work style is always characterized by a detailed and understandable approach 
 
 ## Knowledge and Experience
 
-;--
+| | | |
+| :---- | :---- | :---- |
+| | |
+
 to do:
 
 Technical 		Writing of operating instructions and manuals, KB articles, release
