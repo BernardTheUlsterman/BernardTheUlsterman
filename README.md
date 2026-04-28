@@ -2,6 +2,10 @@
 
 <img width="200" height="274" alt="grafik" src="https://github.com/user-attachments/assets/d292f6af-eb09-40b4-b480-103f7817980d" />
 
+## Personal Data
+Place of living: Kruså, Sønderjylland, Danmark
+Place of work:   Flensburg, Schleswig-Holstein, Germany
+
 ## Cover Letter
 
 I am currently working on a confidential software project. My tasks are as following:
