@@ -4,7 +4,8 @@
 
 ## Personal Data
 Place of living: Kruså, Sønderjylland, Danmark. 
-Place of work:   Flensburg, Schleswig-Holstein, Germany.
+
+Place of work: Flensburg, Schleswig-Holstein, Germany.
 
 ## Cover Letter
 
