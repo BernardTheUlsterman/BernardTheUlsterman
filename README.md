@@ -11,14 +11,13 @@ I have acquired my professional expertise through many years of experience as a 
 After many years working in Ireland and the United Kingdom as a Support Engineer for software manufacturers, as well as in Germany as an IT Administrator for medium-sized companies, I would like to offer my professional experience to a position in the greater Hamburg/Schleswig-Holstein area.
 Over the years, I have continuously expanded upon the knowledge I gained during my studies and adapted to the demands of the IT market. What are my strengths?
 
-First, I can say that I am a professional in supporting and advising software manufacturers' customers, as well as in technical documentation. Therefore, I can contribute the following to your company:
-
-Support and consulting in Professional Support, Premier Support, and Consulting for Microsoft's major customers. Reproduction and classification of product defects, collaboration with Development and Account Management, consulting for migration anddeployment of Office applications in Dublin and Bucharest.
-
-Support and consulting for Lumension's (HEAT Software) major clients in Galway – Ivanti IT Service Management System and the major clients of an email archiving system in Cork, both systems based on Microsoft Exchange, Microsoft IIS, and Microsoft SQL.
-Creation of user manuals and test protocols for customized industry software. Translation of technical documents from English to German.
-Documentation using Confluence and vendor-specific web interfaces that provide access to their knowledge base articles and support pages to the customer.
-Administration of software used for translation and documentation: Adobe InDesign, SDL Trados Studio, Confluence.
+First, I can say that I am a professional in supporting and advising software manufacturers' customers, as well as in technical documentation.
+Therefore, I can contribute the following to your company:
+- Support and consulting in Professional Support, Premier Support, and Consulting for Microsoft's major customers. Reproduction and classification of product defects, collaboration with Development and Account Management, consulting for migration anddeployment of Office applications in Dublin and Bucharest.
+- Support and consulting for Lumension's (HEAT Software) major clients in Galway – Ivanti IT Service Management System and the major clients of an email archiving system in Cork, both systems based on Microsoft Exchange, Microsoft IIS, and Microsoft SQL.
+- Creation of user manuals and test protocols for customized industry software. Translation of technical documents from English to German.
+- Documentation using Confluence and vendor-specific web interfaces that provide access to their knowledge base articles and support pages to the customer.
+- Administration of software used for translation and documentation: Adobe InDesign, SDL Trados Studio, Confluence.
 
 My work style is always characterized by a detailed and understandable approach to describing technical processes, as well as a friendly approach to customers, users, and colleagues. In my previous employment, I was and still am highly valued by everyone.
 
