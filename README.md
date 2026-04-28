@@ -27,7 +27,7 @@ Therefore, I can contribute the following to your company:
 - Documentation using Confluence and vendor-specific web interfaces that provide access to their knowledge base articles and support pages to the customer.
 - Administration of software used for translation and documentation: Adobe InDesign, SDL Trados Studio, Confluence.
 
-My work style is always characterized by a detailed and understandable approach to describing technical processes, as well as a friendly approach to customers, users, and colleagues. In my previous employment, I was and still am highly valued by everyone.
+My work style is always characterized by a detailed and understandable approach to describing technical processes, as well as a friendly approach to customers, users, peers and colleagues. In my present and in previous employments, I was and still am highly valued by everyone.
 
 ## Curriculum Vitae
 
