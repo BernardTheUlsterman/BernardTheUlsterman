@@ -4,7 +4,7 @@
 
 ## Personal Data
 
-| Full name | Ulrich Bernhard Gaukel |
+| | |
 | ----------- | ----------- |
 | Place of living | Kruså, Sønderjylland, Danmark  |
 | Place of work | Flensburg, Schleswig-Holstein, Germany |
