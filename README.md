@@ -4,7 +4,6 @@
 
 ## Personal Data
 
-| table | description |
 | ----------- | ----------- |
 | Place of living: | Kruså, Sønderjylland, Danmark  |
 | Place of work: | Flensburg, Schleswig-Holstein, Germany |
