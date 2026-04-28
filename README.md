@@ -71,6 +71,60 @@ My work style is always characterized by a detailed and understandable approach 
 
 ## Knowledge and Experience
 
+;--
+to do:
+
+Qualifications
+		
+IT			Network- and Systems Administrator + MCSE
+GfN, Stuttgart, Germany
+
+Boldon James Engineer: Fortra Certified Support Engineer (FCSE)
+	Fortra Academy
+
+Sales			Micro Focus Inside Sales and Maintenance Renewals Training
+			Critical Path Strategies Inc., Boerne/TX, USA
+			Telesales of Apple products – hardware + software
+Apple ASTO Sales Training, Apple Computers, Cork
+
+Support Processes	Microsoft PSS Support Processes – New Starter Assignment 
+			Support Processes for Microsoft Premier Support
+
+Security Clearance	Security Clearance for German Nuclear Industry 2014-2017
+			Ministry for Environment, Climate, Energy of Baden-Württemberg
+			
+Knowledge and Experience
+
+Technical 		Writing of operating instructions and manuals, KB articles, release
+Documentation 	notes, testing instructions, translation of manuals into German
+			MS Word, Confluence, Draw.io, Visio, Paint.Net, Gimp
+			Administration: Confluence, InDesign, Trados Studio, MS Office
+
+IT (Admin)		Network- and Systems Administration with GCOS7, Windows NT/2000, 
+Windows 2003/2008, SBS 2003/2011, XP/Vista/7/8, Office 2003 – 2013,
+Exchange 2010/2013, Outlook 2003 - 2013
+Support and administration of users, mailboxes and permissions within  Active Directory and Exchange. Administration with DSM, LanDesk, Acronis + Veritas Backup, McAffee, Symantec, Avast, Mailstore, Archive Manager
+Hardware of HP, Dell, NEC, Gateway 2000, ALR Server, Cisco, D-Link.
+     
+IT (Support)	Incident handling for professionals, companies and governments – Windows Server 2003/2008 with Active Directory, 
+Exchange Server 2003/2007, Windows XP/Vista, HEAT Service Management, MS SQL 2012/2014, IIS
+ 
+Incident handling and consulting for companies and governments - Windows XP/Vista/7 clients with Active Directory and Office 2003/2007/2010 incl. Outlook, Visio, Business Intelligence and VBA.
+Development of solutions for individual issues. Advisory and instruction of System Administrators, IT Managers and Consultants 
+Consulting, advisory and instruction of project leaders in questions about deployment and migration of Microsoft Office.
+
+Manual testing, entering and documentation in the bug database, filing hotfix request and follow up until handover to Tier 3 and Development
+Logon- /Batch-Scripting, Office-VBA, XML, ADM/ADMX, VB/VC-Script
+Mentoring and training of Support Engineers.
+Used tools: ADSS, ADUC and GPMC, Regedit, ADSI-Edit, Performance Monitor, Process Monitor, Eventlog, Debugging Tools for Windows, Network Monitor, Wireshark, Fiddler, PFDAV-Admin, Archivesink, ExMerge, MFC-MAPI, Telnet-Client, Hyperterminal, Eseutil, Isinteg, Exchdump, etc. etc. etc.
+
+Test environment for simulation of complex issues, virtualized in VMWare and Hyper-V: Windows 2003-2012 Active Directory, Exchange 2003-2010, Office 2003-2010, HEAT SM 2014-2017, SQL 2012/2014, IIS
+
+CRM and Ticket-	Administration: WESIR, VK-Mobil, UPS WorldShip, HEAT SM
+Systems		Use: Clarify, PS/8, SAP, Siebel, Vantive, Cyclone, MSSolve, SMT.	 
+Languages		German	mother language
+English  	fluent
+French		basic
 
 
 
