@@ -1,5 +1,7 @@
 # Ulrich Bernhard Gaukel
 
+![alt text](C:\Onboarding\profilePicture.jpg)
+
 ## Cover Letter
 
 I am currently working on a software project. My tasks are as following:
