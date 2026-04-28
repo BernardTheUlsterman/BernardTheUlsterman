@@ -74,27 +74,6 @@ My work style is always characterized by a detailed and understandable approach 
 ;--
 to do:
 
-Qualifications
-		
-IT			Network- and Systems Administrator + MCSE
-GfN, Stuttgart, Germany
-
-Boldon James Engineer: Fortra Certified Support Engineer (FCSE)
-	Fortra Academy
-
-Sales			Micro Focus Inside Sales and Maintenance Renewals Training
-			Critical Path Strategies Inc., Boerne/TX, USA
-			Telesales of Apple products – hardware + software
-Apple ASTO Sales Training, Apple Computers, Cork
-
-Support Processes	Microsoft PSS Support Processes – New Starter Assignment 
-			Support Processes for Microsoft Premier Support
-
-Security Clearance	Security Clearance for German Nuclear Industry 2014-2017
-			Ministry for Environment, Climate, Energy of Baden-Württemberg
-			
-Knowledge and Experience
-
 Technical 		Writing of operating instructions and manuals, KB articles, release
 Documentation 	notes, testing instructions, translation of manuals into German
 			MS Word, Confluence, Draw.io, Visio, Paint.Net, Gimp
@@ -125,6 +104,8 @@ Systems		Use: Clarify, PS/8, SAP, Siebel, Vantive, Cyclone, MSSolve, SMT.
 Languages		German	mother language
 English  	fluent
 French		basic
+
+
 
 
 
