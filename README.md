@@ -13,7 +13,7 @@
 ## Cover Letter
 
 I am currently working on a confidential software project. My tasks are as following:
-- Creating and translating operating instructions and user manuals for a software project
+- Creating and translating operating instructions and user manuals for a software project.
 - Testing software configurations. Designing and writing test protocols.
 - Handling of issues in collaboration with peers, customer and supplier's technical support.
 
