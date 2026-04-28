@@ -6,6 +6,7 @@
 
 | | |
 | ----------- | ----------- |
+| Nationality | German |
 | Place of living | Kruså, Sønderjylland, Danmark  |
 | Place of work | Flensburg, Schleswig-Holstein, Germany |
 | Contact | ulrich.gaukel@protonmail.com | 
