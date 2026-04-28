@@ -57,7 +57,7 @@ My work style is always characterized by a detailed and understandable approach 
 
 | | |
 | ---- | ---- |
-| University of Stuttgart | German Degree in Geology. Specialization in  Engineering Geology, Hydrogeology, Mineralogy, Geophysics. <br> Overall result „Good“. <br> Recognized as Honors Bachelor (Level 8 of Irish NFQ) |
+| University of Stuttgart | <b> German Degree in Geology. </b> Specialization in  Engineering Geology, Hydrogeology, Mineralogy, Geophysics. <br> Overall result „Good“. <br> Recognized as Honors Bachelor (Level 8 of Irish NFQ) |
 
 ## Qualifications
 
