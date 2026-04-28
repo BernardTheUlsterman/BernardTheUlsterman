@@ -7,6 +7,8 @@ Place of living: Kruså, Sønderjylland, Danmark.
 
 Place of work: Flensburg, Schleswig-Holstein, Germany.
 
+Contact: ulrich.gaukel@protonmail.com
+
 ## Cover Letter
 
 I am currently working on a confidential software project. My tasks are as following:
