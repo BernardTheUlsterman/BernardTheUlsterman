@@ -73,14 +73,11 @@ My work style is always characterized by a detailed and understandable approach 
 
 | | | |
 | :---- | :---- | :---- |
-| | |
+| Technical Documentation | Writing of operating instructions and manuals, KB articles, release notes, testing instructions, translation of manuals into German. MS Word, Confluence, Draw.io, Visio, Paint.Net, Gimp. <br> Administration: Confluence, InDesign, Trados Studio, MS Office |
 
 to do:
 
-Technical 		Writing of operating instructions and manuals, KB articles, release
-Documentation 	notes, testing instructions, translation of manuals into German
-			MS Word, Confluence, Draw.io, Visio, Paint.Net, Gimp
-			Administration: Confluence, InDesign, Trados Studio, MS Office
+		
 
 IT (Admin)		Network- and Systems Administration with GCOS7, Windows NT/2000, 
 Windows 2003/2008, SBS 2003/2011, XP/Vista/7/8, Office 2003 – 2013,
