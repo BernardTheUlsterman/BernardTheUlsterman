@@ -7,7 +7,7 @@
 | | |
 | ----------- | ----------- |
 | Nationality | German |
-| Date of birth | 12/03/1962 |
+| Date of birth | 12th March, 1962 |
 | Place of living | Kruså, Sønderjylland, Danmark  |
 | Place of work | Flensburg, Schleswig-Holstein, Germany |
 | Contact | ulrich.gaukel@protonmail.com | 
