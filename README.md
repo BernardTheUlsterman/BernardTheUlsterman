@@ -7,8 +7,7 @@ I am currently working on a software project. My tasks are as following:
 - Testing software configurations. Designing and writing test protocols.
 - Handling 
 
-I have acquired my professional expertise through many years of experience as a Support Engineer, Technical Writer, Systems Administrator, and Inside Sales Representative. Why am I looking for a new role?
-After many years working in Ireland and the United Kingdom as a Support Engineer for software manufacturers, as well as in Germany as an IT Administrator for medium-sized companies, I would like to offer my professional experience to a position in the greater Hamburg/Schleswig-Holstein area.
+I have acquired my professional expertise through many years of experience as a Support Engineer, Technical Writer, Systems Administrator, and Inside Sales Representative. After many years working in Ireland and the United Kingdom as a Support Engineer for software manufacturers, as well as in Germany as an IT Administrator for medium-sized companies, I am currently working in the greater Hamburg/Schleswig-Holstein area.
 Over the years, I have continuously expanded upon the knowledge I gained during my studies and adapted to the demands of the IT market. What are my strengths?
 
 First, I can say that I am a professional in supporting and advising software manufacturers' customers, as well as in technical documentation.
