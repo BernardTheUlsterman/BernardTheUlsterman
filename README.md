@@ -4,7 +4,7 @@
 
 ## Cover Letter
 
-I am currently working on a software project. My tasks are as following:
+I am currently working on a confidential software project. My tasks are as following:
 - Creating and translating operating instructions and user manuals for a software project
 - Testing software configurations. Designing and writing test protocols.
 - Handling 
