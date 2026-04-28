@@ -7,7 +7,7 @@
 I am currently working on a confidential software project. My tasks are as following:
 - Creating and translating operating instructions and user manuals for a software project
 - Testing software configurations. Designing and writing test protocols.
-- Handling of issues in collaboration with customer and supplier's technical support.
+- Handling of issues in collaboration with peers, customer and supplier's technical support.
 
 I have acquired my professional expertise through many years of experience as a Support Engineer, Technical Writer, Systems Administrator, and Inside Sales Representative. After many years working in Ireland and the United Kingdom as a Support Engineer for software manufacturers, as well as in Germany as an IT Administrator for medium-sized companies, I am currently working in the greater Hamburg/Schleswig-Holstein area.
 Over the years, I have continuously expanded upon the knowledge I gained during my studies and adapted to the demands of the IT market. What are my strengths?
