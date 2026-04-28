@@ -1,6 +1,6 @@
 # Ulrich Bernhard Gaukel
 
-![alt text](C:\Onboarding\profilePicture.jpg)
+![alt text](C:\Onboarding\profilePicture.png)
 
 ## Cover Letter
 
