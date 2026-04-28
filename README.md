@@ -1,8 +1,6 @@
 # Ulrich Bernhard Gaukel
 
-## Curriculum Vitae
-
-### Cover Letter
+## Cover Letter
 
 I am currently working on a software project. My tasks are as following:
 - Creating and translating operating instructions and user manuals for a software project
@@ -23,6 +21,8 @@ Documentation using Confluence and vendor-specific web interfaces that provide a
 Administration of software used for translation and documentation: Adobe InDesign, SDL Trados Studio, Confluence.
 
 My work style is always characterized by a detailed and understandable approach to describing technical processes, as well as a friendly approach to customers, users, and colleagues. In my previous employment, I was and still am highly valued by everyone.
+
+## Curriculum Vitae
 
 
 <!--
