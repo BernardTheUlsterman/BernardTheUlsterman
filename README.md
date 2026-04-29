@@ -81,7 +81,7 @@ Hardware of HP, Dell, NEC, Gateway 2000, ALR Server, Cisco, D-Link. |
 
 ##Languages
 
-| | | |
+| | |
 | :---- | :---- |
 | German | mother language |
 | English | fluent |
