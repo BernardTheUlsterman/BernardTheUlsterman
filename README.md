@@ -86,6 +86,10 @@ My work style is always characterized by a detailed and understandable approach 
 | English | fluent |
 | French | basic |
 
+## Driving license
+
+Not available.
+
 
 
 
