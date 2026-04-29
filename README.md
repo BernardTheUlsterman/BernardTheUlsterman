@@ -88,7 +88,10 @@ My work style is always characterized by a detailed and understandable approach 
 
 ## Driving license
 
-Nay, not available. I use my own vehicle with chauffeur, the Wright double-decker labelled 'Line 9' to Donegall Square :-)
+Nay, not available. I use my Volvo with chauffeur... that Volvo :-)
+
+<img width="686" height="386" alt="hq720" src="https://github.com/user-attachments/assets/2ad6df3f-8182-4bec-81f9-6d515c1265b7" />
+
 
 
 
