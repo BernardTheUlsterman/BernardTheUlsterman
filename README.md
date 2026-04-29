@@ -71,7 +71,7 @@ My work style is always characterized by a detailed and understandable approach 
 
 ## Knowledge and Experience
 
-| | | |
+| | |
 | :---- | :---- |
 | Technical Documentation | Writing of operating instructions and manuals, KB articles, release notes, testing instructions, translation of manuals into German. MS Word, Confluence, Draw.io, Visio, Paint.Net, Gimp. <br> Administration: Confluence, InDesign, Trados Studio, MS Office |
 | IT (Admin) |	Network- and Systems Administration with GCOS7, Windows NT/2000, Windows 2003/2008, SBS 2003/2011, XP/Vista/7/8, Office 2003 – 2013,Exchange 2010/2013, Outlook 2003 - 2013. <br> Support and administration of users, mailboxes and permissions within Active Directory and Exchange. <br> Administration with DSM, LanDesk, Acronis + Veritas Backup, McAffee, Symantec, Avast, Mailstore, Archive Manager <br> Hardware of HP, Dell, NEC, Gateway 2000, ALR Server, Cisco, D-Link. |
