@@ -90,6 +90,8 @@ My work style is always characterized by a detailed and understandable approach 
 
 Nay, not available. I use my Volvo with chauffeur... that Volvo :-)
 
+<img width="400" height="400" alt="anfang-juni-2024-war-volvo-214065" src="https://github.com/user-attachments/assets/d95c7724-6b9f-44c4-85c7-2fbc14a2eb53" />
+
 
 
 
