@@ -86,7 +86,7 @@ My work style is always characterized by a detailed and understandable approach 
 
 ## Driving license
 
-Nay, I don't need one. I have my own Mercedes with chauffeur... here the Mercedes I use to go shopping in Kruså (Sønderjylland): :-)
+Nay, I don't need one. I have my own Mercedes with chauffeur... this Mercedes. Here I use to go shopping in Kruså (Sønderjylland): :-)
 
 <img width="500" height="218" alt="mercedes mit chauffeur" src="https://github.com/user-attachments/assets/4e13e263-d63f-450e-8031-f7895345e42c" />
 
