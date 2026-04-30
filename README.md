@@ -6,8 +6,9 @@
 | :----------- | :----------- |
 | Nationality | German |
 | Date of birth | 12.03.1962 |
-| Place of living | Flensburg, Schleswig-Holstein, Germany <br> Kernen im Remstal, Baden-Württemberg, Germany |
-| Place of working | Flensburg, Schleswig-Holstein, Germany <br> Magdeburg, Sachsen-Anhalt, Germany <br> Kernen im Remstal, Baden-Württemberg, Germany |
+| Where I live | Flensburg, Schleswig-Holstein, Germany <br> Kernen im Remstal, Baden-Württemberg, Germany |
+| Where I work | Flensburg, Schleswig-Holstein, Germany <br> Magdeburg, Sachsen-Anhalt, Germany <br> Kernen im Remstal, Baden-Württemberg, Germany |
+| Where I spend my free time | Sønderjylland: Kruså, Kolding, Sønderborg |
 | Contact | Email: ulrich.gaukel@protonmail.com <br> Phone: +45 715 86682 | 
 
 ## Cover Letter
