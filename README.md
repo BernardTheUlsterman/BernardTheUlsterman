@@ -90,7 +90,8 @@ My work style is always characterized by a detailed and understandable approach 
 
 Nay, not available. I have my own Mercedes with chauffeur... that Mercedes: :-)
 
-<img width="915" height="400" alt="mercedes mit chauffeur" src="https://github.com/user-attachments/assets/03c12698-93ab-4e53-be16-9de9a06b1a44" />
+<img width="500" height="218" alt="mercedes mit chauffeur" src="https://github.com/user-attachments/assets/4e13e263-d63f-450e-8031-f7895345e42c" />
+
 
 
 
