@@ -62,7 +62,7 @@ My work style is always characterized by a detailed and understandable approach 
 
 | | |
 | ---- | ---- |
-| Information Technology | <b> Network- and Systems Administrator (GfN) </b> <br> Microsoft Certified Systems Engineer (MCSE) <br> GfN, Stuttgart, Germany <br> <br> <b> Boldon James Engineer: Fortra Certified Support Engineer (FCSE) </b> <br> Fortra Academy <br> <br> <b> AZ-900 Foundation </b> <br> Microsoft <br> <br> <b> ITIL v4 Foundation </b> <br> Peoplesoft |
+| Information Technology | <b> Netzwerk- und Systemadministrator (GfN) </b> <br> Microsoft Certified Systems Engineer (MCSE) <br> GfN, Stuttgart, Germany <br> <br> <b> Boldon James Engineer: Fortra Certified Support Engineer (FCSE) </b> <br> Fortra Academy <br> <br> <b> AZ-900 Foundation </b> <br> Microsoft <br> <br> <b> ITIL v4 Foundation </b> <br> Peoplesoft |
 | Support Processes | <b> New Starter Assignment </b> (Microsoft Support Processes) <br> Microsoft, Professional and Premier Support |
 | Sales | <b> Micro Focus Inside Sales and Maintenance Renewals Training </b> <br> Critical Path Strategies Inc., Boerne/TX, USA <br> <br> <b> Telesales of Apple products – hardware + software </b> <br> Apple ASTO Sales Training, Apple Computers, Cork |
 | Insurance Industry | <b> Insurance Industry Jumpstart </b> <br> IBM Germany |
