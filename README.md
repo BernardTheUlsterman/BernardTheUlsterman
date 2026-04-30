@@ -62,7 +62,7 @@ My work style is always characterized by a detailed and understandable approach 
 
 | | |
 | ---- | ---- |
-| Information Technology | <b> Netzwerk- und Systemadministrator (GfN) </b> <br> Microsoft Certified Systems Engineer (MCSE) <br> GfN, Stuttgart, Germany <br> <br> <b> Boldon James Engineer: Fortra Certified Support Engineer (FCSE) </b> <br> FORTRA Certified Pre-Sales Engineer (FCPSP) <br> Fortra Academy <br> <br> <b> AZ-900 Foundation </b> <br> Microsoft <br> <br> <b> ITIL v4 Foundation </b> <br> Peoplesoft <br> <br> <b> Intorduction to Technical Writing </b> <br> Tech Writers Master Class <br> UDEMY Inc. |
+| Information Technology | <b> Netzwerk- und Systemadministrator (GfN) </b> <br> Microsoft Certified Systems Engineer (MCSE) <br> GfN, Stuttgart, Germany <br> <br> <b> Boldon James Engineer: Fortra Certified Support Engineer (FCSE) </b> <br> FORTRA Certified Pre-Sales Engineer (FCPSP) <br> Fortra Academy <br> <br> <b> AZ-900 Foundation </b> <br> Microsoft <br> <br> <b> ITIL v4 Foundation </b> <br> Peoplesoft <br> <br> <b> Intorduction to Technical Writing </b> <br> Tech Writers Master Class <br> UDEMY |
 | Support Processes | <b> New Starter Assignment </b> (Microsoft Support Processes) <br> Microsoft, Professional and Premier Support |
 | Sales | <b> Micro Focus Inside Sales and Maintenance Renewals Training </b> <br> Critical Path Strategies Inc., Boerne/TX, USA <br> <br> <b> Telesales of Apple products – hardware + software </b> <br> Apple ASTO Sales Training, Apple Computers, Cork |
 | Insurance Industry | <b> Insurance Industry Jumpstart </b> <br> IBM Germany |
