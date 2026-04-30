@@ -88,9 +88,10 @@ My work style is always characterized by a detailed and understandable approach 
 
 ## Driving license
 
-Nay, not available. I use my Volvo with chauffeur... my Volvo 7900 :-)
+Nay, not available. I have my own Mercedes with chauffeur... that Mercedes: :-)
 
-<img width="400" height="214" alt="Untitled" src="https://github.com/user-attachments/assets/f59fa45f-35d3-49bd-a226-4475796c7c83" />
+<img width="915" height="400" alt="mercedes mit chauffeur" src="https://github.com/user-attachments/assets/03c12698-93ab-4e53-be16-9de9a06b1a44" />
+
 
 
 
