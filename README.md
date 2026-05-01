@@ -1,5 +1,7 @@
 # Ulrich Bernhard Gaukel ('Bernard')
 
+<img width="273" height="266" alt="Unsaved Image 1" src="https://github.com/user-attachments/assets/ebb5b729-fe28-45fd-b227-3f2473ad8d22" />
+
 ## Personal Data
 
 | | |
