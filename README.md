@@ -57,13 +57,12 @@ My work style is always characterized by a detailed and understandable approach 
 | 06/1999 | 11/1999 | <b> Internship as Supermarket Manager </b> <br> Cash accounting, advise of temporary staff, operating dairy and beverages departments. <br> REWE-Markt Lang, Kernen im Remstal, Germany |
 | 08/1996 | 06/1999 | <b> Technical Support Representative </b> <br> Handling of technical issues for consumers and SMB companies. Windows 95, 98, NT. <br> Gateway 2000 and ALR hardware. <br> Gateway 2000, Clonshaugh, Dublin, Ireland |
 | 06/1994 | 08/1996 | <b> Freigth Forwarding Clerk </b> <br> Handling of shipment transactions for international B2B customers of a machine engineering works. <br> Herion-Werke, Fellbach, Germany |
-| 09/1992 | 08/1993 | <b> Internship as Geologist </b> <br> Temporary job during studies. Groundwater remediation. <br> Wehrstein-Geotechnik, Waiblingen, Germany |
 
 ## Education
 
 | | |
 | ---- | ---- |
-| University of Stuttgart | <b> German Degree in Geology. </b> Specialization in  Engineering Geology, Hydrogeology, Mineralogy, Geophysics. <br> Overall result „Good“. <br> Recognized as Honors Bachelor (Level 8 of Irish NFQ) |
+| University of Stuttgart | <b> German Degree in Geology. </b> Specialization in  Engineering Geology, Hydrogeology, Mineralogy, Geophysics. <br> Overall result „Good“. <br> Recognized as Honors Bachelor (Level 8 of Irish NFQ) <br> <br> <b> Internship as Geologist </b> <br> Temporary job during studies. Groundwater remediation. <br> Wehrstein-Geotechnik, Waiblingen, Germany |
 
 ## Qualifications
 
