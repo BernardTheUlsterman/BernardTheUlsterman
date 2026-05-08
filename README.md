@@ -62,7 +62,7 @@ My work style is always characterized by a detailed and understandable approach 
 
 | | |
 | ---- | ---- |
-| University of Stuttgart | <b> German Degree in Geology. </b> Specialization in  Engineering Geology, Hydrogeology, Mineralogy, Geophysics. <br> Overall result „Good“. <br> Recognized as Honors Bachelor (Level 8 of Irish NFQ) <br> <br> Thesis about the hydrology of a river. <br> <br> <b> Internship as Geologist </b> <br> Temporary job during studies. Groundwater remediation. <br> Wehrstein-Geotechnik, Waiblingen, Germany |
+| University of Stuttgart | <b> German Degree in Geology. </b> Specialization in  Engineering Geology, Hydrogeology, Mineralogy, Geophysics. Thesis about the hydrology of a river. <br> Overall result „Good“. <br> Recognized as Honors Bachelor (Level 8 of Irish NFQ) <br> <br> <b> Internship as Geologist </b> <br> Temporary job during studies. Groundwater remediation. <br> Wehrstein-Geotechnik, Waiblingen, Germany |
 
 ## Qualifications
 
