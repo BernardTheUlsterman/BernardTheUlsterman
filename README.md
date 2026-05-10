@@ -10,7 +10,7 @@
 | Date of birth | 12.03.1962 |
 | Where I live | Flensburg, Schleswig-Holstein, Germany <br> Kernen im Remstal, Baden-Württemberg, Germany |
 | Where I work | Flensburg and Handewitt, Schleswig-Holstein, Germany <br> Magdeburg, Sachsen-Anhalt, Germany <br> Kernen im Remstal, Baden-Württemberg, Germany |
-| Where I spend my free time | Sønderjylland: Kruså, Aabenra, Sønderborg <br> Syddanmark: Kolding |
+| Where I spend my free time | Sønderjylland: Kruså, Aabenra, Sønderborg <br> Nørrejylland: Kolding |
 | Contact | Email: ulrich.gaukel@protonmail.com <br> Phone: +45 715 86682 | 
 
 ## Cover Letter
