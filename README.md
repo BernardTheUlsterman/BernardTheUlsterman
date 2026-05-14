@@ -63,7 +63,7 @@ My work style is always characterized by a detailed and understandable approach 
 | | |
 | ---- | ---- |
 | University of Stuttgart | <b> German Degree in Geology. </b> Specialization in  Engineering Geology, Hydrogeology, Mineralogy, Geophysics. Thesis about the hydrology of a river. Overall result „Good“. <br> Recognized in Ireland as Honors Bachelor (Level 8 of Irish NFQ) <br> <br> <b> Internship as Geologist </b> <br> Temporary job during studies. Groundwater remediation. <br> Wehrstein-Geotechnik, Waiblingen, Germany |
-| BfE Bildungspark <br> Stuttgart-Vaihingen | <b> Environmental Audit and Management </b> <br>Additional qualification as Environmental Auditor for internal Audits (EMAS and ISO 14001) <br> <br> Internship: IBM Germany |
+| BfE Bildungspark Stuttgart-Vaihingen | <b> Environmental Audit and Management </b> <br>Additional qualification as Environmental Auditor for internal Audits (EMAS and ISO 14001) <br> <br> Internship: IBM Germany |
 
 ## Qualifications
 
