@@ -56,7 +56,7 @@ My work style is always characterized by a detailed and understandable approach 
 | 11/1999 | 07/2002 | <b> Network Administrator. </b> <br> Network, user and server administration, mainframe operating. IT Infrastructure, IT Purchasing, user + permissions administration. Bull DPS 7000, GCOS 7, Windows NT / 95, CA Unicenter, Veritas Backup, Office 97, Gallion WESIR, VK-Mobil, UPS WorldShip. Technical documentation of infrastructure and operations.  <br> Project: Migration of Infrastructure from Bull DSA to TCP/IP. <br> Hometrend-Inku Deutschland (Gallion) GmbH, Leinfelden-Echterdingen, Germany |
 | 06/1999 | 11/1999 | <b> Internship as Supermarket Manager </b> <br> Cash accounting, advise of temporary staff, operating dairy and beverages departments. <br> REWE-Markt Lang, Kernen im Remstal, Germany |
 | 08/1996 | 06/1999 | <b> Technical Support Representative </b> <br> Handling of technical issues for consumers and SMB companies. Windows 95, 98, NT. <br> Gateway 2000 and ALR hardware. <br> Gateway 2000, Clonshaugh, Dublin, Ireland |
-| 06/1994 | 08/1996 | <b> Freigth Forwarding Clerk </b> <br> Handling of shipment transactions for international B2B customers of a machine engineering works. <br> Herion-Werke, Fellbach, Germany |
+| 06/1994 | 08/1996 | <b> Freight Forwarding Clerk </b> <br> Handling of shipment transactions for international B2B customers of a machine engineering works. <br> Herion-Werke, Fellbach, Germany |
 
 ## Education
 
