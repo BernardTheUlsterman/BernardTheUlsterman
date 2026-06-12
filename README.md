@@ -105,9 +105,10 @@ Nay, I don't need one. I have my own Mercedes with chauffeur... this Mercedes. :
 | :---- | :---- |
 | Sønderjylland | https://www.visitsonderjylland.dk |
 | Sønderborg | https://www.visitsonderjylland.dk/sonderborg/velkommen-til-soenderborg |
-| Aabenra | https://www.visitsonderjylland.com/aabenraa/aabenraa |
 | Kolding | https://www.kolding.dk |
-| Esbjerg | https://www.esbjerg.dk |
+
+Og mange andre steder i Danmark... :-)
+
 
 
 
