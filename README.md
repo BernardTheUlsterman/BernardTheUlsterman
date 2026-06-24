@@ -107,7 +107,7 @@ Nay, I don't need one. I have my own Mercedes with chauffeur... this Mercedes. :
 | Sønderborg | https://www.visitsonderjylland.dk/sonderborg/velkommen-til-soenderborg |
 | Kolding | https://www.kolding.dk |
 | Min sommerhus er i | Kruså |  
-| | Og mange andre steder i Danmark... :-) |
+| Og hvor ellers | På mange andre steder i Danmark... :-) |
 
 
 
