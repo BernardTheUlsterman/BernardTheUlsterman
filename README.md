@@ -70,7 +70,7 @@ My work style is always characterized by a detailed and understandable approach 
 | | |
 | ---- | ---- |
 | Information Technology | <b> Netzwerk- und Systemadministrator </b> (Network- and Systems Administrator) <br> <b> Microsoft Certified Systems Engineer (MCSE) </b> <br> GfN, Stuttgart, Germany / Microsoft Corp. <br> <br> <b> Boldon James Engineer: Fortra Certified Support Engineer (FCSE) </b> <br> <b> Boldon James Sales Engineer: FORTRA Certified Pre-Sales Engineer (FCPSP) </b> <br> Fortra Academy <br> <br> <b> AZ-900 Foundation </b> <br> Microsoft <br> <br> <b> ITIL v4 Foundation </b> <br> Peoplesoft <br> <br> <b> Introduction to Technical Writing </b> <br> <b> Tech Writers Master Class </b> <br> <b> Technical Writing: How to write Software Documentation </b> <br> UDEMY |
-| Support Processes | <b> New Starter Assignment </b> (Microsoft Support Processes) <br> Microsoft, Professional and Premier Support |
+| Support Processes | <b> New Starter Assignment </b> (NSA) <br> Microsoft support processes for Professional and Premier Support <br> Microsoft |
 | Sales | <b> Micro Focus Inside Sales and Maintenance Renewals Training </b> <br> Critical Path Strategies Inc., Boerne/TX, USA <br> <br> <b> Apple ASTO Sales Training </b> (Telesales of Apple products: Hardware + software) <br> Apple Computers, Cork <br> <br> <b> KACE Sales Accreditation </b> <br> Quest Software International |
 | Insurance Industry | <b> Insurance Industry Jumpstart </b> <br> IBM Germany |
 | Secrity Clearance | <b> Security Clearance for German Nuclear Industry </b> (2014-2017) <br> Ministry for Environment, Climate, Energy of Baden-Württemberg |
