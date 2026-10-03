@@ -26,7 +26,7 @@ Over the years, I have continuously expanded upon the knowledge I gained during 
 
 First, I can say that I am a professional in supporting and advising software manufacturers' customers, as well as in technical documentation.
 Therefore, I can contribute the following to any assignment:
-- Support and consulting in Professional Support, Premier Support, and Consulting for Microsoft's major customers. Reproduction and classification of product defects, collaboration with Development and Account Management, consulting for migration anddeployment of Office applications in Dublin and Bucharest.
+- Support and consulting in Professional Support, Premier Support, and Consulting for Microsoft's major customers. Reproduction and classification of product defects, collaboration with Development and Account Management, consulting for migration and deployment of Office applications in Dublin and Bucharest.
 - Support and consulting for Lumension's (HEAT Software) major clients in Galway – Ivanti IT Service Management System and for the major clients of Quest Software in Cork for their email archiving system. Both systems are based on Microsoft Exchange, Microsoft IIS, and Microsoft SQL.
 - Creation of user manuals and test protocols for customized software. Translation of technical documents from English to German.
 - Documentation using Confluence and vendor-specific web interfaces that provide access to their knowledge base articles and support pages to the customer.
